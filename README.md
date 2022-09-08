@@ -1,10 +1,9 @@
 ## Olá 👋 eu sou o Jean Lima.
 
-Desenvolvedor Web, com foco inicial no front-end utilizando *HTML, CSS e Javascript (React, Next)*.<br>
-Estou em busca da minha primeira oportunidade na área, tenho muita facilidade de aprendizado e amo trabalhar em equipe!
+Iniciei os estudos na área de programação em meados de 2020, onde meu foco inicial era front-end. Obtive conhecimentos em  <b>HTML, CSS e Javascript</b>, e posteriormente me aprimorei em <b>ReactJs, NextJs, Sass, Styled Components</b> entre outros. Porém recentemente decidi migrar para o back-end, que foi onde descobri uma paixão! :heart_eyes:
 
 ### O que estou estudando atualmente :man_technologist: :nerd_face:
-Após aprender toda a base necessária, no momento estou focado em me aperfeiçoar em React (Hooks, Context API, Context, etc...) e Nextjs. Estou também me aprofundando no uso de Styled Components.
+Atualmente meus estudos estão 100% direcionados para <b>NodeJS</b> e <b>Typescript</b>, além de estar me aperfeiçoando na criação de API's utilizando as tecnologias mais conhecidas como <b>TypeORM, Express, Docker, Bancos de dados relacionais e nao relacionais</b>, aplicando também conceitos de <b>S.O.L.I.D</b>, e criando testes unitários e de integração.
 
 ##### Me encontre nas redes sociais :point_down:
 
