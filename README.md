@@ -5,7 +5,7 @@ Iniciei os estudos na área de programação em meados de 2020, onde meu foco in
 ### O que estou estudando atualmente :man_technologist: :nerd_face:
 Atualmente meus estudos estão 100% direcionados para <b>NodeJS</b> e <b>Typescript</b>, além de estar me aperfeiçoando na criação de API's utilizando as tecnologias mais conhecidas como <b>TypeORM, Express, Docker, Bancos de dados relacionais e nao relacionais</b>, aplicando também conceitos de <b>S.O.L.I.D</b>, e criando testes unitários e de integração.
 
-## Estou em busca da minha primeira oportunidade na área e almejo me tornar um profissional competente e completo.
+### Estou em busca da minha primeira oportunidade na área e almejo me tornar um profissional competente e completo.
 
 ##### Me encontre nas redes sociais :point_down:
 
