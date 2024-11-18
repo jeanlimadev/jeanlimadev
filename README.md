@@ -1,17 +1,20 @@
 ## Olá 👋 eu sou o Jean Lima.
 
-Iniciei os estudos na área de programação em meados de 2020, onde meu foco inicial era front-end. Obtive conhecimentos em  <b>HTML, CSS e Javascript</b>, e posteriormente me aprimorei em <b>ReactJs, NextJs, Sass, Styled Components</b> entre outros. Porém recentemente decidi migrar para o back-end, que foi onde descobri uma paixão! :heart_eyes:
+Desenvolvedor com mais de 2 anos de experiência na área de tecnologia, atualmente atuo como Desenvolvedor Fullstack com Foco em Back-End na <a href="https://www.linkedin.com/company/portdata/mycompany/" target="_blank">@PortLouis</a>, contribuindo para o produto PortData, uma solução de automação para processos de due diligence. Minhas responsabilidades incluem:
 
-Atualmente atuo com Analista de QA na <a href="https://www.linkedin.com/company/portdata/mycompany/" target="_blank">@PortLouis</a>, utilizando <b>Jest</b>, <b>Puppeteer</b>, entre outros para realizar <b>testes e2e</b> para garantir a qualidade do produto. Tudo isso dentro de um time ágil utilizando os princípios do <b>scrum</b>.
+Desenvolvimento e manutenção de sistemas utilizando C# (.NET), Node.js com TypeScript e Vue.js.
+Automação de emissão, leitura e interpretação de certidões e processos, com integração de tecnologias que realizam extração e análise de dados.
 
-### O que estou estudando atualmente :man_technologist: :nerd_face:
-Atualmente meus estudos estão 100% direcionados para <b>NodeJS</b> e <b>Typescript</b>, além de estar me aperfeiçoando na criação de API's utilizando as tecnologias mais conhecidas como <b>TypeORM, Express, Docker, Bancos de dados relacionais e nao relacionais</b>, aplicando também conceitos de <b>S.O.L.I.D</b>, e criando testes unitários e de integração.
+Gestão de microsserviços em um ambiente baseado em AWS, utilizando serviços como Lambda, S3 e SQS para orquestração e escalabilidade.
+
+Principais Linguagens e Tecnologias Utilizadas:
+- TypeScript
+- Node.js
+- C# (.NET)
+- Vue.js
+- AWS (Lambda, SQS)
+- MySQL
 
 ##### Me encontre nas redes sociais :point_down:
 
 <a href="https://linkedin.com/in/jeanlimadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://t.me/jeanlimadev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://discord.com/channels/@jeanlimadev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-
-<div>
-	<img width="400px" src="https://github-readme-stats.vercel.app/api?username=jeanlimadev&show_icons=true&theme=dark" />
-	<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlimadev&layout=compact&theme=dark" />
-<div>
